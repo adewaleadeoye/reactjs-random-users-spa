@@ -1,8 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import Landing from './routes/Landing';
-import Home from './routes/Home';
 import registerServiceWorker from './registerServiceWorker';
 import {BrowserRouter, Route} from 'react-router-dom';
 import UserList from './routes/UserList';
